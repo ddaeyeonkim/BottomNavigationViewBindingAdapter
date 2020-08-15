@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoWayBindingSample</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="description_home">This is Home fragment</string>
+    <string name="description_dashboard">This is Dashboard fragment</string>
+    <string name="description_notifications">This is Notifications fragment</string>
+</resources>
